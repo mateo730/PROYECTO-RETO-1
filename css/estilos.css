@@ -1,0 +1,27 @@
+html, body{
+	height: 100%;
+}
+
+img{
+    max-width: 100%;
+    align-items: center;
+}
+
+/*cover*/
+
+.contenido-seccion{
+    padding: 5rem;
+}
+
+#servicios{
+    background: #ffffff center center no-repeat;
+	background-size: cover;
+
+}
+
+#nosotros{
+    background: #343a40 center center no-repeat;
+	background-size: cover;
+
+}
+
